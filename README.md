@@ -12,6 +12,8 @@ I am currently a postgraduate student in China. I majored in electronic informat
 
 I am interested in FrontEnd area, including Node.js and Vue. And I have some great projects.
 
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+
 ## Projects
 
 - [Howler Music:](http:www.woaitouxiang.top) Apple Music 风格高颜值在线音乐播放器

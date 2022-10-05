@@ -20,6 +20,10 @@ I am interested in FrontEnd area, including Node.js and Vue. And I have some gre
 - [vuepress-plugin-immersive-music-player:](https://www.npmjs.com/package/vuepress-plugin-immersive-music-player) An immersive and personalized vuepress music plugin | vuepress 沉浸式音乐播放器插件
 - [chrome-extension:](https://github.com/bitdance-team/chrome-extension) 学生助手 Chrome浏览器插件
 
+## ⭐️ &nbsp;Github Star
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simonzhangs&count_private=true&show_icons=true"/>
+
 <!---
 simonzhangs/simonzhangs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

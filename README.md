@@ -24,6 +24,9 @@ I am interested in FrontEnd area, including Node.js and Vue. And I have some gre
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simonzhangs&count_private=true&show_icons=true"/>
 
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/simonzhangs/count.svg" />
+
 <!---
 simonzhangs/simonzhangs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

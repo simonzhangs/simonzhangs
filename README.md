@@ -24,6 +24,8 @@ I am interested in FrontEnd area, including Node.js and Vue. And I have some gre
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simonzhangs&count_private=true&show_icons=true"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonzhangs&layout=compact)](https://github.com/simonzhangs)
+
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/simonzhangs/count.svg" />
 
